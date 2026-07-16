@@ -1,2 +1,2 @@
 # Demo-HTMLCSSJS
-My fourth website, built to practice and experiment with HTML, CSS, and JavaScript
+This is a project I did to practice web design. built to practice and experiment with HTML, CSS, and JavaScript
